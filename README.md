@@ -31,7 +31,7 @@ It answers real-time customer queries with fuzzy matching and typo correction â€
 ---
 
 ## ðŸ“¸ Preview
-![Chatbot Screenshot](https://github.com/<yourusername>/smarthelp-ai-chatbot/blob/main/screenshot.png)
+![Chatbot Screenshot](https://github.com/SunnySalvi090/smarthelp-ai-chatbot/blob/main/smarthelp-ai-chatbot-screenshot.png)
 
 ---
 
